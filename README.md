@@ -1,4 +1,4 @@
-# check_daily_report
+# check daily report
 Automatically check whether the daily report has sent and reminding the unsent.  
   
 ### how to use?  
